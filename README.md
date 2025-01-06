@@ -2,7 +2,7 @@
   
   #### 👋 Welcome to Github Ammar Allezandro
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Allezandro&fontSize=80&fontAlign=60&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:ff007f,100:00ffff&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=50&animation=fadeIn)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Technology+Researcher;Futuristic+Design+Enthusiast;Gaming+Lover)](https://git.io/typing-svg)
 </div>
