@@ -1,26 +1,26 @@
 <div align="center">
   
-  #### 👋 Welcome to Github Wanz Xploit
+  #### 👋 Welcome to Github Ammar Allezandro
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Wanz%20Xploit&fontSize=80&fontAlign=60&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=60&animation=fadeIn)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Security+Researcher;Linux+Enthusiast;Full+Stack+Developer;Open+Source+Contributor;Prompt+Engineer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Frontend+Developer;Researcher;Open+Source+Enthusiast;Gaming+Lover)](https://git.io/typing-svg)
 </div>
 
 ## 🧑‍💻 About Me
 
 ```python
-class WanzXploit:
+class AmmarAllezandro:
     def __init__(self):
-        self.name = "Wanz Xploit"
-        self.location = "Bali, Indonesia"
-        self.work = "Security Researcher & Developer"
-        self.interests = ["Cybersecurity", "GNU/Linux", "Open Source"]
-        self.gaming = ["PS2 Classics", "MLBB", "COC"]
-        self.life_motto = "Simple tools, massive impact"
+        self.name = "Ammar Allezandro"
+        self.location = "Jakarta, Indonesia"
+        self.work = "Frontend Developer & Researcher"
+        self.interests = ["Software Development", "Open Source", "Cybersecurity"]
+        self.gaming = ["Genshin Impact", "Honkai: Star Rail", "Mobile Legends: Bang Bang"]
+        self.life_motto = "The most complex thing is the most simple thing"
     
     def get_daily_routine(self):
-        return ["Code", "Hack", "Learn", "Game", "Repeat"]
+        return ["Eat", "Gaming", "Coffee", "Code", "Repeat"]
 ```
 
 ## 🌟 Featured Projects
@@ -41,24 +41,9 @@ class WanzXploit:
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Development Environment
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
-![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wanzxploit&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wanzxploit&theme=radical"/>
-</div>
 
 ## 🎯 Current Setup
 
