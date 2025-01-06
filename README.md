@@ -17,7 +17,7 @@ class AmmarAllezandro:
         self.work = "Frontend Developer & Researcher"
         self.interests = ["Software Development", "Open Source", "Cybersecurity"]
         self.gaming = ["Genshin Impact", "Honkai: Star Rail", "Mobile Legends: Bang Bang"]
-        self.life_motto = "The most complex thing is the most simple thing"
+        self.life_motto = "The most complex thing is the most simple thing."
     
     def get_daily_routine(self):
         return ["Eat", "Gaming", "Coffee", "Code", "Repeat"]
