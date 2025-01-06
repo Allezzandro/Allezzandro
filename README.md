@@ -31,7 +31,7 @@ class AmmarAllezandro:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
 
-➡️ [View All Projects](https://github.com/wanzxploit?tab=repositories)
+➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
 
 </div>
 
@@ -54,33 +54,25 @@ Development:
     terminal: ["Termux", "Linux Userland"]
   
 System:
-  device: "Itel P55 NFC"
-  processor: "Unisoc T606"
+  device: "Infinix X2"
+  processor: "Intelcore i7 Gen 10"
   os: "Android 13"
-  environment: ["Kali Linux", "Ubuntu"]
+  environment: ["Windows Powershell", "Ubuntu"]
 ```
 
 ## 🤝 Connect With Me
 
 <div align="center">
-  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/wanzxploit)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/wanz_xploit)
+
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zandro00_)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
-[![GPG Key](https://img.shields.io/badge/GPG_Key-333333?style=for-the-badge&logo=gnu-privacy-guard&logoColor=white)](https://github.com/wanzxploit.gpg)
 
 </div>
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Visitors&edge_flat=false)
-
-[![GitHub Followers](https://img.shields.io/github/followers/wanzxploit?style=social)](https://github.com/wanzxploit?tab=followers)
-[![GitHub Stars](https://img.shields.io/github/stars/wanzxploit?style=social)](https://github.com/wanzxploit)
-
+<div align="center">  
 **💝 Support me with follow**
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f9f002,100:39ff14&height=100&section=footer)
