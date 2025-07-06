@@ -28,9 +28,9 @@ class AmmarAllezandro:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=ammar-allezandro-portfolio&theme=radical)](https://github.com/wanzxploit/IP-LOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezandro&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
 
 ➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
 
@@ -48,6 +48,12 @@ class AmmarAllezandro:
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
+### Development Environment
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
+![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
+
 ## 🎯 Current Setup
 
 ```yaml
@@ -62,20 +68,6 @@ System:
   processor: "Intelcore i7 Gen 10"
   os: "Android 13"
   prefered environment: ["Windows Powershell", "Git Bash"]
-```
-## 🎯 Current Setup
-
-```yaml
-Development:
-  Editor: 
-    mobile: ["Acode", "Quick Edit"]
-    terminal: ["Termux", "Linux Userland"]
-  
-System:
-  device: "Itel P55 NFC"
-  processor: "Unisoc T606"
-  os: "Android 13"
-  environment: ["Kali Linux", "Ubuntu"]
 ```
 
 ## 🤝 Connect With Me
