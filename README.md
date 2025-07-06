@@ -76,4 +76,4 @@ System:
 **💝 Support me with follow**
 </div>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:f9f002,100:39ff14&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F71746,100:CA3AB0&height=100&section=footer)
