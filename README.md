@@ -34,7 +34,7 @@ class AmmarAllezandro:
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=backend-carentara&theme=radical)](https://github.com/PutuRivan/backend-carentara)
 
 ➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
-
+➡️ [View My Secondary Github](https://github.com/Allezan)
 </div>
 
 ## 🛠️ Tech Arsenal
