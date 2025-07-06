@@ -4,6 +4,8 @@
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F71746,100:CA3AB0&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=50&animation=fadeIn)
 
+  #### I love to do
+  
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Technology+Researcher;Futuristic+Design+Enthusiast;Gaming+Lover)](https://git.io/typing-svg)
 </div>
 
@@ -41,6 +43,8 @@ class AmmarAllezandro:
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
