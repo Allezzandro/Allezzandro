@@ -63,6 +63,20 @@ System:
   os: "Android 13"
   prefered environment: ["Windows Powershell", "Git Bash"]
 ```
+## 🎯 Current Setup
+
+```yaml
+Development:
+  Editor: 
+    mobile: ["Acode", "Quick Edit"]
+    terminal: ["Termux", "Linux Userland"]
+  
+System:
+  device: "Itel P55 NFC"
+  processor: "Unisoc T606"
+  os: "Android 13"
+  environment: ["Kali Linux", "Ubuntu"]
+```
 
 ## 🤝 Connect With Me
 
