@@ -27,7 +27,7 @@ class AmmarAllezandro:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=ammar-allezandro-portfolio&theme=radical)](https://github.com/wanzxploit/IP-LOC)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezandro&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
 
