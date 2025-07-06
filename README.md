@@ -28,7 +28,7 @@ class AmmarAllezandro:
 
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot)](https://github.com/Allezan/Tiktok-Uploader-bot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot)](https://github.com/Allezan/Tiktok-Uploader-bot)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
 
