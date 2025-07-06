@@ -24,13 +24,14 @@ class AmmarAllezandro:
         return ["Eat", "Gaming", "Coffee", "Code", "Repeat"]
 ```
 
-## 🌟 Featured Projects
+## 🌟 Here are some of my Collaboration Projects
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot)](https://github.com/Allezan/Tiktok-Uploader-bot)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot&theme=radical)](https://github.com/Allezan/Tiktok-Uploader-bot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=The-Buncitman&theme=radical)](https://github.com/PutuRivan/The-Buncitman)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=frontend-carentara&theme=radical)](https://github.com/PutuRivan/frontend-carentara)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=backend-carentara&theme=radical)](https://github.com/PutuRivan/backend-carentara)
 
 ➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
 
