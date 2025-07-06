@@ -2,7 +2,7 @@
   
   #### 👋 Welcome to Github Ammar Allezandro
   
-  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:f9f002,100:39ff14&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=50&animation=fadeIn)
+  ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:950706,100:570044&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=50&animation=fadeIn)
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Technology+Researcher;Futuristic+Design+Enthusiast;Gaming+Lover)](https://git.io/typing-svg)
 </div>
@@ -50,14 +50,15 @@ class AmmarAllezandro:
 ```yaml
 Development:
   Editor: 
-    mobile: ["Acode", "Quick Edit"]
+    web: ["VS Code", "Xcode"]
+    mobile: ["Android Studio", "Quick Edit"]
     terminal: ["Termux", "Linux Userland"]
   
 System:
   device: "Infinix X2"
   processor: "Intelcore i7 Gen 10"
   os: "Android 13"
-  environment: ["Windows Powershell", "Ubuntu"]
+  prefered environment: ["Windows Powershell", "Git Bash"]
 ```
 
 ## 🤝 Connect With Me
@@ -65,7 +66,7 @@ System:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zandro00_)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
+[![Portfolio Web](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
 
 </div>
 
