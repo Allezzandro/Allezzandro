@@ -1,6 +1,6 @@
 <div align="center">
   
-  #### 👋 Welcome to Github Ammar Allezandro
+  #### 👋 Welcome to my Github, my name is ...
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F71746,100:CA3AB0&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=50&animation=fadeIn)
 
@@ -27,9 +27,9 @@ class AmmarAllezandro:
 
 <div align="center">
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=wanzxploit&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=IP-LOC&theme=radical)](https://github.com/wanzxploit/IP-LOC)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=MATA&theme=radical)](https://github.com/wanzxploit/MATA)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezandro&repo=MATA-SERVER&theme=radical)](https://github.com/wanzxploit/MATA-SERVER)
 
 ➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
 
