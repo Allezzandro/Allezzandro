@@ -4,7 +4,7 @@
   
   ![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:F71746,100:CA3AB0&height=200&section=header&text=Ammar%20Allezandro&fontSize=80&fontAlign=50&animation=fadeIn)
 
-  #### I love to do
+  #### Currently I am a ...
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EF7A1&center=true&vCenter=true&random=false&width=500&lines=Software+Developer;Technology+Researcher;Futuristic+Design+Enthusiast;Gaming+Lover)](https://git.io/typing-svg)
 </div>
