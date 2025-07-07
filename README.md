@@ -17,12 +17,12 @@ class AmmarAllezandro:
         self.location = "Jakarta, Indonesia"
         self.work = "Software Developer & Tech Researcher"
         self.expertise = "Frontend Web Developer & Web Design Specialist (UI/UX)" 
-        self.interests = ["Software Development", "Open Source", "Cybersecurity"]
-        self.gaming = ["Genshin Impact", "Honkai: Star Rail", "Mobile Legends: Bang Bang"]
+        self.interests = ["Software Development", "AI Technology", "Bio Technology Research"]
+        self.gaming = ["Cyberpunk 2077", "Honkai: Star Rail", "Mobile Legends: Bang Bang"]
         self.life_motto = "The most complex thing is the most simple thing."
     
     def get_daily_routine(self):
-        return ["Eat", "Gaming", "Coffee", "Code", "Repeat"]
+        return ["Eat", "Coffee", "Research", "Code", "Repeat"]
 ```
 
 ## 🌟 Here are some of my Collaboration Projects
@@ -77,7 +77,7 @@ System:
 <div align="center">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/zandro00_)
-[![Portfolio Web](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
+[![Portfolio Web](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://wanzxploit.my.id/)
 
 </div>
 
