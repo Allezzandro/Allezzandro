@@ -55,10 +55,11 @@ class AmmarAllezandro:
 ![Tailwind](https://img.shields.io/badge/Tailwind.css-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 ### Development Environment
+![Powershell](https://img.shields.io/badge/Powershell-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Termux](https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white)
-![Acode](https://img.shields.io/badge/Acode-4F46E5?style=for-the-badge&logo=android&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git_X_Windows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=white)
+![Github](https://img.shields.io/badge/Git_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## 🎯 Current Setup
 
