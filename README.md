@@ -42,7 +42,7 @@ class AmmarAllezandro:
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages, Library, & Frameworks
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS_3-663399?style=for-the-badge&logo=css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -54,11 +54,12 @@ class AmmarAllezandro:
 ![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/ShadcnUI-000000?style=for-the-badge&logo=shadcnui&logoColor=white)
 
 ### Development Environment
 ![Powershell](https://img.shields.io/badge/Powershell-241F31?style=for-the-badge&logo=gnometerminal&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/Git_X_Windows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=white)
 ![Github](https://img.shields.io/badge/Git_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
