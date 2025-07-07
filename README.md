@@ -61,6 +61,14 @@ class AmmarAllezandro:
 ![Git](https://img.shields.io/badge/Git_X_Windows-80B3FF?style=for-the-badge&logo=gitforwindows&logoColor=white)
 ![Github](https://img.shields.io/badge/Git_Hub-181717?style=for-the-badge&logo=github&logoColor=white)
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allezzandro&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Allezandro&theme=radical"/>
+</div>
+
+
 ## 🎯 Current Setup
 
 ```yaml
