@@ -97,8 +97,6 @@ System:
 ---
 
 <div align="center">
-  
-![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwanzxploit&title=Visitors&edge_flat=false)
 
 [![GitHub Followers](https://img.shields.io/github/followers/Allezzandro?style=social)](https://github.com/Allezzandro?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Allezzandro?style=social)](https://github.com/Allezzandro)
