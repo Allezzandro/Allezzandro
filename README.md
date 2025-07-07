@@ -29,10 +29,10 @@ class AmmarAllezandro:
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot&theme=jolly)](https://github.com/Allezan/Tiktok-Uploader-bot)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=The-Buncitman&theme=jolly)](https://github.com/PutuRivan/The-Buncitman)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=frontend-carentara&theme=jolly)](https://github.com/PutuRivan/frontend-carentara)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=backend-carentara&theme=jolly)](https://github.com/PutuRivan/backend-carentara)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot&theme=jolly&hide_border=true)](https://github.com/Allezan/Tiktok-Uploader-bot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=The-Buncitman&theme=jolly&hide_border=true)](https://github.com/PutuRivan/The-Buncitman)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=frontend-carentara&theme=jolly&hide_border=true)](https://github.com/PutuRivan/frontend-carentara)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=backend-carentara&theme=jolly&hide_border=true)](https://github.com/PutuRivan/backend-carentara)
 
 ➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
 ➡️ [View My Secondary Github](https://github.com/Allezan)
@@ -64,8 +64,8 @@ class AmmarAllezandro:
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allezzandro&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Allezandro&theme=jolly"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Allezzandro&show_icons=true&theme=jolly&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Allezandro&theme=jolly&hide_border=true"/>
 </div>
 
 
