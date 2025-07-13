@@ -29,10 +29,10 @@ class AmmarAllezandro:
 
 <div align="center">
   
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot&theme=jolly&hide_border=true)](https://github.com/Allezan/Tiktok-Uploader-bot)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=The-Buncitman&theme=jolly&hide_border=true)](https://github.com/PutuRivan/The-Buncitman)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=frontend-carentara&theme=jolly&hide_border=true)](https://github.com/PutuRivan/frontend-carentara)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PutuRivan&repo=backend-carentara&theme=jolly&hide_border=true)](https://github.com/PutuRivan/backend-carentara)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=Tiktok-Uploader-bot&theme=jolly&hide_border=true)](https://github.com/Allezzandro/Tiktok-Uploader-bot)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=The-Buncitman&theme=jolly&hide_border=true)](https://github.com/Allezzandro/The-Buncitman)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=frontend-carentara&theme=jolly&hide_border=true)](https://github.com/Allezzandro/frontend-carentara)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=bg-remove&theme=jolly&hide_border=true)](https://github.com/Allezzandro/bg-remove)
 
 ➡️ [View All Projects](https://github.com/Allezzandro?tab=repositories)
 ➡️ [View My Secondary Github](https://github.com/Allezan)
