@@ -27,7 +27,7 @@ class AmmarAllezandro:
 
 ## 🌟 Here are some of my Collaboration Projects
 
-<div align="center">
+<div align="center" justify="center">
   
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezan&repo=Tiktok-Uploader-bot&theme=jolly&hide_border=true)](https://github.com/Allezan/Tiktok-Uploader-bot)
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Allezzandro&repo=The-Buncitman&theme=jolly&hide_border=true)](https://github.com/Allezzandro/The-Buncitman)
